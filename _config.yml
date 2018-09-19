@@ -5,6 +5,10 @@ author:
 description:
 url:
 
+header_pages:
+  - about.html
+  - contact.html
+
 # Build settings
 permalink: :title/
 sass:
